@@ -14,7 +14,7 @@
 <div align="left">
 
 ## AIM- 
-to make a single Miter Mortise & Tenon joint
+To make a single Miter Mortise & Tenon joint
 
 ## MATERIAL- 
 Marindi / Kali Wood
